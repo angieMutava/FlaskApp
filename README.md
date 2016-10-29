@@ -1,6 +1,7 @@
-     Project Title
+    To-do List Appication
 
-One Paragraph of project description goes here
+This an application that lists down the tins to be done by a user.The items are listed in the order of priority.
+
 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
